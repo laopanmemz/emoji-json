@@ -1,0 +1,1494 @@
+[
+  {
+    "name": "颜表情",
+    "type": "emoticon",
+    "items": [
+      {
+        "key": "Hi",
+        "val": "|´・ω・)ノ"
+      },
+      {
+        "key": "开心",
+        "val": "ヾ(≧∇≦*)ゝ"
+      },
+      {
+        "key": "星星眼",
+        "val": "(☆ω☆)"
+      },
+      {
+        "key": "掀桌",
+        "val": "（╯‵□′）╯︵┴─┴"
+      },
+      {
+        "key": "流口水",
+        "val": "￣﹃￣"
+      },
+      {
+        "key": "捂脸",
+        "val": "(/ω＼)"
+      },
+      {
+        "key": "给跪",
+        "val": "∠( ᐛ 」∠)＿"
+      },
+      {
+        "key": "哈？",
+        "val": "(๑•̀ㅁ•́ฅ)"
+      },
+      {
+        "key": "斜眼",
+        "val": "→_→"
+      },
+      {
+        "key": "加油",
+        "val": "୧(๑•̀⌄•́๑)૭"
+      },
+      {
+        "key": "有木有WiFi",
+        "val": "٩(ˊᗜˋ*)و"
+      },
+      {
+        "key": "前方高能预警",
+        "val": "(ノ°ο°)ノ"
+      },
+      {
+        "key": "纳尼",
+        "val": "(´இ皿இ｀)"
+      },
+      {
+        "key": "吓死惹",
+        "val": "⌇●﹏●⌇"
+      },
+      {
+        "key": "已阅留爪",
+        "val": "(ฅ´ω`ฅ)"
+      },
+      {
+        "key": "去吧大师球",
+        "val": "(╯°A°)╯︵○○○"
+      },
+      {
+        "key": "太萌惹",
+        "val": "φ(￣∇￣o)"
+      },
+      {
+        "key": "咦咦咦",
+        "val": "ヾ(´･ ･｀｡)ノ\""
+      },
+      {
+        "key": "气呼呼",
+        "val": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃"
+      },
+      {
+        "key": "我受到了惊吓",
+        "val": "(ó﹏ò｡)"
+      },
+      {
+        "key": "什么鬼",
+        "val": "Σ(っ °Д °;)っ"
+      },
+      {
+        "key": "摸摸头",
+        "val": "( ,,´･ω･)ﾉ\"(´っω･｀｡)"
+      },
+      {
+        "key": "无奈",
+        "val": "╮(╯▽╰)╭ "
+      },
+      {
+        "key": "脸红",
+        "val": "o(*////▽////*)q "
+      },
+      {
+        "key": "悲哀",
+        "val": "＞﹏＜"
+      },
+      {
+        "key": "静静地看着你",
+        "val": "( ๑´•ω•) \"(ㆆᴗㆆ)"
+      },
+      {
+        "key": "不要哇",
+        "val": "(｡•ˇ‸ˇ•｡)"
+      }
+    ]
+  },
+  {
+    "name": "Emoji",
+    "type": "emoji",
+    "items": [
+      {
+        "key": "笑脸",
+        "val": "😀"
+      },
+      {
+        "key": "大笑",
+        "val": "😃"
+      },
+      {
+        "key": "开怀笑",
+        "val": "😄"
+      },
+      {
+        "key": "露齿笑",
+        "val": "😁"
+      },
+      {
+        "key": "闭眼笑",
+        "val": "😆"
+      },
+      {
+        "key": "笑出泪",
+        "val": "😅"
+      },
+      {
+        "key": "笑哭",
+        "val": "😂"
+      },
+      {
+        "key": "微笑",
+        "val": "😊"
+      },
+      {
+        "key": "眨眼",
+        "val": "😉"
+      },
+      {
+        "key": "眼睛",
+        "val": "👀"
+      },
+      {
+        "key": "如释重负",
+        "val": "😌"
+      },
+      {
+        "key": "爱心眼",
+        "val": "😍"
+      },
+      {
+        "key": "飞吻",
+        "val": "😘"
+      },
+      {
+        "key": "美味",
+        "val": "😋"
+      },
+      {
+        "key": "调皮",
+        "val": "😜"
+      },
+      {
+        "key": "吐舌",
+        "val": "😝"
+      },
+      {
+        "key": "酷",
+        "val": "😎"
+      },
+      {
+        "key": "得意",
+        "val": "😏"
+      },
+      {
+        "key": "不满",
+        "val": "😒"
+      },
+      {
+        "key": "担忧",
+        "val": "😟"
+      },
+      {
+        "key": "困惑",
+        "val": "😕"
+      },
+      {
+        "key": "苦恼",
+        "val": "😖"
+      },
+      {
+        "key": "疲惫",
+        "val": "😫"
+      },
+      {
+        "key": "绝望",
+        "val": "😩"
+      },
+      {
+        "key": "生气",
+        "val": "😠"
+      },
+      {
+        "key": "惊讶",
+        "val": "😲"
+      },
+      {
+        "key": "晕",
+        "val": "😵"
+      },
+      {
+        "key": "脸红",
+        "val": "😳"
+      },
+      {
+        "key": "惊恐",
+        "val": "😱"
+      },
+      {
+        "key": "害怕",
+        "val": "😨"
+      },
+      {
+        "key": "哭泣",
+        "val": "😢"
+      },
+      {
+        "key": "大哭",
+        "val": "😭"
+      },
+      {
+        "key": "生病",
+        "val": "😷"
+      },
+      {
+        "key": "举手",
+        "val": "✋"
+      },
+      {
+        "key": "胜利",
+        "val": "✌️"
+      },
+      {
+        "key": "拳头",
+        "val": "👊"
+      },
+      {
+        "key": "挥手",
+        "val": "👋"
+      },
+      {
+        "key": "鼓掌",
+        "val": "👏"
+      },
+      {
+        "key": "赞",
+        "val": "👍"
+      },
+      {
+        "key": "踩",
+        "val": "👎"
+      },
+      {
+        "key": "红心",
+        "val": "❤️"
+      },
+      {
+        "key": "庆祝",
+        "val": "🎉"
+      },
+      {
+        "key": "火箭",
+        "val": "🚀"
+      }
+    ]
+  },
+  {
+    "name": "滑稽",
+    "type": "image",
+    "items": [
+      {
+        "key": "原味稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/原味稽.png"
+      },
+      {
+        "key": "还是算了",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/还是算了.png"
+      },
+      {
+        "key": "蓝纹稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蓝纹稽.jpg"
+      },
+      {
+        "key": "随稽应变",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/随稽应变.jpg"
+      },
+      {
+        "key": "蠕动",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蠕动.jpg"
+      },
+      {
+        "key": "束手无稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/束手无稽.jpg"
+      },
+      {
+        "key": "微笑默叹以为妙绝",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/微笑默叹以为妙绝.png"
+      },
+      {
+        "key": "喝嘤料",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/喝嘤料.jpg"
+      },
+      {
+        "key": "暗中观察",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/暗中观察.jpg"
+      },
+      {
+        "key": "高兴",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/高兴.jpg"
+      },
+      {
+        "key": "惊稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/惊稽.jpg"
+      },
+      {
+        "key": "可这和我的帅有什么关系",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/可这和我的帅有什么关系.jpg"
+      },
+      {
+        "key": "狱稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/狱稽.jpg"
+      },
+      {
+        "key": "梆",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/梆.jpg"
+      },
+      {
+        "key": "吃鱼摆摆",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/吃鱼摆摆.jpg"
+      },
+      {
+        "key": "跃跃欲试3",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/跃跃欲试3.jpg"
+      },
+      {
+        "key": "突然滑稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/突然滑稽.jpg"
+      },
+      {
+        "key": "扶墙怂",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/扶墙怂.jpg"
+      },
+      {
+        "key": "阔以",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/阔以.jpg"
+      },
+      {
+        "key": "不得行",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/不得行.jpg"
+      },
+      {
+        "key": "少儿不宜",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/少儿不宜.jpg"
+      },
+      {
+        "key": "稽日可期",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/稽日可期.jpg"
+      },
+      {
+        "key": "哎",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/哎.jpg"
+      },
+      {
+        "key": "别看丢人",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/别看丢人.jpg"
+      },
+      {
+        "key": "地稽2",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/地稽2.jpg"
+      },
+      {
+        "key": "地稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/地稽.jpg"
+      },
+      {
+        "key": "老阔有点扣",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/老阔有点扣.jpg"
+      },
+      {
+        "key": "啊哈哈",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/啊哈哈.jpg"
+      },
+      {
+        "key": "无稽可奈",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/无稽可奈.jpg"
+      },
+      {
+        "key": "老实巴交",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/老实巴交.jpg"
+      },
+      {
+        "key": "紧张",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/紧张.jpg"
+      },
+      {
+        "key": "摇摆稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/摇摆稽.jpg"
+      },
+      {
+        "key": "又不是不能用",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/又不是不能用.jpg"
+      },
+      {
+        "key": "一时滑稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/一时滑稽.jpg"
+      },
+      {
+        "key": "无法接受",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/无法接受.jpg"
+      },
+      {
+        "key": "嘤雄豪稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/嘤雄豪稽.jpg"
+      },
+      {
+        "key": "相视双稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/相视双稽.jpg"
+      },
+      {
+        "key": "稽皮发麻",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/稽皮发麻.jpg"
+      },
+      {
+        "key": "地稽3",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/地稽3.jpg"
+      },
+      {
+        "key": "地稽委屈",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/地稽委屈.jpg"
+      },
+      {
+        "key": "地稽抚摸",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/地稽抚摸.jpg"
+      },
+      {
+        "key": "绝望",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/绝望.jpg"
+      },
+      {
+        "key": "气稽败坏",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/气稽败坏.jpg"
+      },
+      {
+        "key": "当场去世",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/当场去世.jpg"
+      },
+      {
+        "key": "喝酒",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/喝酒.jpg"
+      },
+      {
+        "key": "老衲摆摊算命",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/老衲摆摊算命.jpg"
+      },
+      {
+        "key": "老哥，稳",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/老哥，稳.jpg"
+      },
+      {
+        "key": "自闭稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/自闭稽.jpg"
+      },
+      {
+        "key": "无话可说",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/无话可说.jpg"
+      },
+      {
+        "key": "跃跃欲试",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/跃跃欲试.jpg"
+      },
+      {
+        "key": "跃跃欲试2",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/跃跃欲试2.jpg"
+      },
+      {
+        "key": "满脑子骚操作",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/满脑子骚操作.jpg"
+      },
+      {
+        "key": "稽之舞",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/稽之舞.jpg"
+      },
+      {
+        "key": "将稽就稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/将稽就稽.jpg"
+      }
+    ]
+  },
+  {
+    "name": "蔚蓝档案",
+    "type": "image",
+    "items": [
+      {
+        "key": "蔚蓝档案表情包_抱抱",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_抱抱.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_得意",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_得意.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_不是我",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_不是我.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_应付",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_应付.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_抽到了",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_抽到了.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_宣布",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_宣布.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_不行",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_不行.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_疑问",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_疑问.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_开始吧",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_开始吧.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_斯哈",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_斯哈.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_给你",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_给你.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_白眼",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_白眼.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_加油",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_加油.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_蝴蝶",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_蝴蝶.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_藏起来",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_藏起来.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_神作",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_神作.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_呜哇",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_呜哇.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_高手",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_高手.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_慌张",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_慌张.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_想要",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_想要.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_观察",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_观察.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_祈祷",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_祈祷.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_做错了",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_做错了.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_兴奋",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_兴奋.png"
+      },
+      {
+        "key": "蔚蓝档案表情包_收到",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蔚蓝档案表情包_收到.png"
+      }
+    ]
+  },
+  {
+    "name": "B站",
+    "type": "image",
+    "items": [
+      {
+        "key": "doge_金箍",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/doge_金箍.png"
+      },
+      {
+        "key": "笑哭",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/笑哭.png"
+      },
+      {
+        "key": "蹲蹲",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/蹲蹲.png"
+      },
+      {
+        "key": "星星眼",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/星星眼.png"
+      },
+      {
+        "key": "微笑",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/微笑.png"
+      },
+      {
+        "key": "吃瓜",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/吃瓜.png"
+      },
+      {
+        "key": "打call",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/打call.png"
+      },
+      {
+        "key": "doge",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/doge.png"
+      },
+      {
+        "key": "OK",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/OK.png"
+      },
+      {
+        "key": "大哭",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/大哭.png"
+      },
+      {
+        "key": "辣眼睛",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/辣眼睛.png"
+      },
+      {
+        "key": "滑稽",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/滑稽.png"
+      },
+      {
+        "key": "呲牙",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/呲牙.png"
+      },
+      {
+        "key": "喜极而泣",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/喜极而泣.png"
+      },
+      {
+        "key": "歪嘴",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/歪嘴.png"
+      },
+      {
+        "key": "调皮",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/调皮.png"
+      },
+      {
+        "key": "妙啊",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/妙啊.png"
+      },
+      {
+        "key": "嗑瓜子",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/嗑瓜子.png"
+      },
+      {
+        "key": "藏狐",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/藏狐.png"
+      },
+      {
+        "key": "脱单doge",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/脱单doge.png"
+      },
+      {
+        "key": "笑",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/笑.png"
+      },
+      {
+        "key": "脸红",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/脸红.png"
+      },
+      {
+        "key": "给心心",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/给心心.png"
+      },
+      {
+        "key": "嘟嘟",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/嘟嘟.png"
+      },
+      {
+        "key": "哦呼",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/哦呼.png"
+      },
+      {
+        "key": "喜欢",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/喜欢.png"
+      },
+      {
+        "key": "酸了",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/酸了.png"
+      },
+      {
+        "key": "嫌弃",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/嫌弃.png"
+      },
+      {
+        "key": "害羞",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/害羞.png"
+      },
+      {
+        "key": "疑惑",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/疑惑.png"
+      },
+      {
+        "key": "偷笑",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/偷笑.png"
+      },
+      {
+        "key": "惊讶",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/惊讶.png"
+      },
+      {
+        "key": "捂脸",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/捂脸.png"
+      },
+      {
+        "key": "阴险",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/阴险.png"
+      },
+      {
+        "key": "呆",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/呆.png"
+      },
+      {
+        "key": "抠鼻",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/抠鼻.png"
+      },
+      {
+        "key": "大笑",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/大笑.png"
+      },
+      {
+        "key": "惊喜",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/惊喜.png"
+      },
+      {
+        "key": "无语",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/无语.png"
+      },
+      {
+        "key": "点赞",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/点赞.png"
+      },
+      {
+        "key": "鼓掌",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/鼓掌.png"
+      },
+      {
+        "key": "尴尬",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/尴尬.png"
+      },
+      {
+        "key": "灵魂出窍",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/灵魂出窍.png"
+      },
+      {
+        "key": "委屈",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/委屈.png"
+      },
+      {
+        "key": "傲娇",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/傲娇.png"
+      },
+      {
+        "key": "疼",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/疼.png"
+      },
+      {
+        "key": "冷",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/冷.png"
+      },
+      {
+        "key": "热",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/热.png"
+      },
+      {
+        "key": "生病",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/生病.png"
+      },
+      {
+        "key": "生气",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/生气.png"
+      },
+      {
+        "key": "捂眼",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/捂眼.png"
+      },
+      {
+        "key": "嘘声",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/嘘声.png"
+      },
+      {
+        "key": "思考",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/思考.png"
+      },
+      {
+        "key": "再见",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/再见.png"
+      },
+      {
+        "key": "翻白眼",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/翻白眼.png"
+      },
+      {
+        "key": "抓狂",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/抓狂.png"
+      },
+      {
+        "key": "哈欠",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/哈欠.png"
+      },
+      {
+        "key": "奋斗",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/奋斗.png"
+      },
+      {
+        "key": "墨镜",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/墨镜.png"
+      },
+      {
+        "key": "难过",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/难过.png"
+      },
+      {
+        "key": "口罩",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/口罩.png"
+      },
+      {
+        "key": "撇嘴",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/撇嘴.png"
+      },
+      {
+        "key": "黑眼圈_金箍",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/黑眼圈_金箍.png"
+      },
+      {
+        "key": "猴哥",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/猴哥.png"
+      },
+      {
+        "key": "生气_金箍",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/生气_金箍.png"
+      },
+      {
+        "key": "龙年",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/龙年.png"
+      },
+      {
+        "key": "豹富",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/豹富.png"
+      },
+      {
+        "key": "兔兔岛_吃面",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/兔兔岛_吃面.png"
+      },
+      {
+        "key": "兔兔岛_开心",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/兔兔岛_开心.png"
+      },
+      {
+        "key": "兔兔岛_睡觉",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/兔兔岛_睡觉.png"
+      },
+      {
+        "key": "胆大党_微笑",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/胆大党_微笑.png"
+      },
+      {
+        "key": "水稻",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/水稻.png"
+      },
+      {
+        "key": "奶茶干杯",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/奶茶干杯.png"
+      },
+      {
+        "key": "汤圆",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/汤圆.png"
+      },
+      {
+        "key": "锦鲤",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/锦鲤.png"
+      },
+      {
+        "key": "福到了",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/福到了.png"
+      },
+      {
+        "key": "鸡腿",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/鸡腿.png"
+      },
+      {
+        "key": "雪花",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/雪花.png"
+      },
+      {
+        "key": "视频卫星",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/视频卫星.png"
+      },
+      {
+        "key": "干杯",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/干杯.png"
+      },
+      {
+        "key": "黑洞",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/黑洞.png"
+      },
+      {
+        "key": "爱心",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/爱心.png"
+      },
+      {
+        "key": "胜利",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/胜利.png"
+      },
+      {
+        "key": "加油",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/加油.png"
+      },
+      {
+        "key": "抱拳",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/抱拳.png"
+      },
+      {
+        "key": "响指",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/响指.png"
+      },
+      {
+        "key": "保佑",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/保佑.png"
+      },
+      {
+        "key": "福",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/福.png"
+      },
+      {
+        "key": "支持",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/支持.png"
+      },
+      {
+        "key": "拥抱",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/拥抱.png"
+      },
+      {
+        "key": "跪了",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/跪了.png"
+      },
+      {
+        "key": "怪我咯",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/怪我咯.png"
+      },
+      {
+        "key": "香格里拉边境",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/香格里拉边境.png"
+      },
+      {
+        "key": "老鼠",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/老鼠.png"
+      },
+      {
+        "key": "牛年",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/牛年.png"
+      },
+      {
+        "key": "兔年",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/兔年.png"
+      },
+      {
+        "key": "三星堆",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/三星堆.png"
+      },
+      {
+        "key": "tv_白眼",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_白眼.png"
+      },
+      {
+        "key": "tv_doge",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_doge.png"
+      },
+      {
+        "key": "tv_坏笑",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_坏笑.png"
+      },
+      {
+        "key": "tv_难过",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_难过.png"
+      },
+      {
+        "key": "tv_生气",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_生气.png"
+      },
+      {
+        "key": "tv_委屈",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_委屈.png"
+      },
+      {
+        "key": "tv_斜眼笑",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_斜眼笑.png"
+      },
+      {
+        "key": "tv_呆",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_呆.png"
+      },
+      {
+        "key": "tv_发怒",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_发怒.png"
+      },
+      {
+        "key": "tv_惊吓",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_惊吓.png"
+      },
+      {
+        "key": "tv_呕吐",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_呕吐.png"
+      },
+      {
+        "key": "tv_思考",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_思考.png"
+      },
+      {
+        "key": "tv_微笑",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_微笑.png"
+      },
+      {
+        "key": "tv_疑问",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_疑问.png"
+      },
+      {
+        "key": "tv_大哭",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_大哭.png"
+      },
+      {
+        "key": "tv_鼓掌",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_鼓掌.png"
+      },
+      {
+        "key": "tv_抠鼻",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_抠鼻.png"
+      },
+      {
+        "key": "tv_亲亲",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_亲亲.png"
+      },
+      {
+        "key": "tv_调皮",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_调皮.png"
+      },
+      {
+        "key": "tv_笑哭",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_笑哭.png"
+      },
+      {
+        "key": "tv_晕",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_晕.png"
+      },
+      {
+        "key": "tv_点赞",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_点赞.png"
+      },
+      {
+        "key": "tv_害羞",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_害羞.png"
+      },
+      {
+        "key": "tv_睡着",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_睡着.png"
+      },
+      {
+        "key": "tv_色",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_色.png"
+      },
+      {
+        "key": "tv_吐血",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_吐血.png"
+      },
+      {
+        "key": "tv_无奈",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_无奈.png"
+      },
+      {
+        "key": "tv_再见",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_再见.png"
+      },
+      {
+        "key": "tv_流汗",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_流汗.png"
+      },
+      {
+        "key": "tv_偷笑",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_偷笑.png"
+      },
+      {
+        "key": "tv_抓狂",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_抓狂.png"
+      },
+      {
+        "key": "tv_黑人问号",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_黑人问号.png"
+      },
+      {
+        "key": "tv_困",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_困.png"
+      },
+      {
+        "key": "tv_打脸",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_打脸.png"
+      },
+      {
+        "key": "tv_闭嘴",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_闭嘴.png"
+      },
+      {
+        "key": "tv_鄙视",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_鄙视.png"
+      },
+      {
+        "key": "tv_腼腆",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_腼腆.png"
+      },
+      {
+        "key": "tv_馋",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_馋.png"
+      },
+      {
+        "key": "tv_可爱",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_可爱.png"
+      },
+      {
+        "key": "tv_发财",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_发财.png"
+      },
+      {
+        "key": "tv_生病",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_生病.png"
+      },
+      {
+        "key": "tv_流鼻血",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_流鼻血.png"
+      },
+      {
+        "key": "tv_尴尬",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_尴尬.png"
+      },
+      {
+        "key": "tv_大佬",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_大佬.png"
+      },
+      {
+        "key": "tv_流泪",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_流泪.png"
+      },
+      {
+        "key": "tv_冷漠",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_冷漠.png"
+      },
+      {
+        "key": "tv_皱眉",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_皱眉.png"
+      },
+      {
+        "key": "tv_鬼脸",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_鬼脸.png"
+      },
+      {
+        "key": "tv_调侃",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_调侃.png"
+      },
+      {
+        "key": "tv_目瞪口呆",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/tv_目瞪口呆.png"
+      },
+      {
+        "key": "桃源_给花花",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/桃源_给花花.png"
+      },
+      {
+        "key": "桃源_缘分",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/桃源_缘分.png"
+      },
+      {
+        "key": "桃源_傲娇",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/桃源_傲娇.png"
+      },
+      {
+        "key": "桃源_欢呼",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/桃源_欢呼.png"
+      },
+      {
+        "key": "桃源_乖巧",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/桃源_乖巧.png"
+      },
+      {
+        "key": "洛天依",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/洛天依.png"
+      },
+      {
+        "key": "鸣潮_嗯",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/鸣潮_嗯.png"
+      },
+      {
+        "key": "鸣潮_嗨",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/鸣潮_嗨.png"
+      },
+      {
+        "key": "鸣潮_祈愿",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/鸣潮_祈愿.png"
+      },
+      {
+        "key": "鸣潮_你好",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/鸣潮_你好.png"
+      },
+      {
+        "key": "鸣潮_嘿嘿",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/鸣潮_嘿嘿.png"
+      },
+      {
+        "key": "少女乐团派对_派对",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/少女乐团派对_派对.png"
+      },
+      {
+        "key": "少女乐团派对_等一下",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/少女乐团派对_等一下.png"
+      },
+      {
+        "key": "少女乐团派对_期待",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/少女乐团派对_期待.png"
+      },
+      {
+        "key": "少女乐团派对_感想",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/少女乐团派对_感想.png"
+      },
+      {
+        "key": "少女乐团派对_开心",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/少女乐团派对_开心.png"
+      },
+      {
+        "key": "FGO_耶",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/FGO_耶.png"
+      },
+      {
+        "key": "FGO_开心",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/FGO_开心.png"
+      },
+      {
+        "key": "FGO_汗",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/FGO_汗.png"
+      },
+      {
+        "key": "FGO_怒",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/FGO_怒.png"
+      },
+      {
+        "key": "FGO_偷看",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/FGO_偷看.png"
+      },
+      {
+        "key": "初音未来_大笑",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/初音未来_大笑.png"
+      },
+      {
+        "key": "原神_哇",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/原神_哇.png"
+      },
+      {
+        "key": "原神_哼",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/原神_哼.png"
+      },
+      {
+        "key": "原神_嗯",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/原神_嗯.png"
+      },
+      {
+        "key": "原神_欸嘿",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/原神_欸嘿.png"
+      },
+      {
+        "key": "原神_喝茶",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/原神_喝茶.png"
+      },
+      {
+        "key": "原神_生气",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/原神_生气.png"
+      }
+    ]
+  },
+  {
+    "name": "Arcaea",
+    "type": "image",
+    "items": [
+      {
+        "key": "Arcaea-184064198",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064198.png"
+      },
+      {
+        "key": "Arcaea-184064199",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064199.png"
+      },
+      {
+        "key": "Arcaea-184064200",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064200.png"
+      },
+      {
+        "key": "Arcaea-184064201",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064201.png"
+      },
+      {
+        "key": "Arcaea-184064202",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064202.png"
+      },
+      {
+        "key": "Arcaea-184064203",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064203.png"
+      },
+      {
+        "key": "Arcaea-184064204",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064204.png"
+      },
+      {
+        "key": "Arcaea-184064205",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064205.png"
+      },
+      {
+        "key": "Arcaea-184064206",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064206.png"
+      },
+      {
+        "key": "Arcaea-184064207",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064207.png"
+      },
+      {
+        "key": "Arcaea-184064208",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064208.png"
+      },
+      {
+        "key": "Arcaea-184064209",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064209.png"
+      },
+      {
+        "key": "Arcaea-184064210",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064210.png"
+      },
+      {
+        "key": "Arcaea-184064211",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064211.png"
+      },
+      {
+        "key": "Arcaea-184064212",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064212.png"
+      },
+      {
+        "key": "Arcaea-184064213",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064213.png"
+      },
+      {
+        "key": "Arcaea-184064214",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064214.png"
+      },
+      {
+        "key": "Arcaea-184064215",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064215.png"
+      },
+      {
+        "key": "Arcaea-184064216",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064216.png"
+      },
+      {
+        "key": "Arcaea-184064217",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064217.png"
+      },
+      {
+        "key": "Arcaea-184064218",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064218.png"
+      },
+      {
+        "key": "Arcaea-184064219",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064219.png"
+      },
+      {
+        "key": "Arcaea-184064220",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064220.png"
+      },
+      {
+        "key": "Arcaea-184064221",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064221.png"
+      },
+      {
+        "key": "Arcaea-184064222",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064222.png"
+      },
+      {
+        "key": "Arcaea-184064223",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064223.png"
+      },
+      {
+        "key": "Arcaea-184064224",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064224.png"
+      },
+      {
+        "key": "Arcaea-184064225",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064225.png"
+      },
+      {
+        "key": "Arcaea-184064226",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064226.png"
+      },
+      {
+        "key": "Arcaea-184064227",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064227.png"
+      },
+      {
+        "key": "Arcaea-184064228",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064228.png"
+      },
+      {
+        "key": "Arcaea-184064229",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064229.png"
+      },
+      {
+        "key": "Arcaea-184064230",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064230.png"
+      },
+      {
+        "key": "Arcaea-184064231",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064231.png"
+      },
+      {
+        "key": "Arcaea-184064232",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064232.png"
+      },
+      {
+        "key": "Arcaea-184064233",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064233.png"
+      },
+      {
+        "key": "Arcaea-184064234",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064234.png"
+      },
+      {
+        "key": "Arcaea-184064235",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064235.png"
+      },
+      {
+        "key": "Arcaea-184064236",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064236.png"
+      },
+      {
+        "key": "Arcaea-184064237",
+        "val": "https://cdn.jsdelivr.net/gh/laopanmemz/emoji-json/emoji/Arcaea-184064237.png"
+      }
+    ]
+  }
+]
